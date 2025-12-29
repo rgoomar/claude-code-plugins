@@ -1,0 +1,20 @@
+{
+  "name": "rgoomar-claude-code-plugins",
+  "metadata": {
+    "description": "Rishi's Claude Code Plugins"
+  },
+  "owner": {
+    "name": "Rishi Goomar"
+  },
+  "plugins": [
+    {
+      "name": "tsgo-lsp",
+      "source": "./plugins/tsgo-lsp",
+      "description": "tsgo lsp plugin",
+      "version": "1.0.0",
+      "author": {
+        "name": "Rishi Goomar"
+      }
+    }
+  ]
+}
