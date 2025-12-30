@@ -7,6 +7,6 @@
 ## Installation
 
 ```
-/plugin marketplace add https://github.com/rgoomar/claude-code-plugins
+/plugin marketplace add rgoomar/claude-code-plugins
 /plugin install tsgo-lsp@rgoomar-claude-code-plugins
 ```
